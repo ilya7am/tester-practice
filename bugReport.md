@@ -17,3 +17,5 @@
 * Google Chrome v99.0.4844.51
 
 **Attachements** /c/Users/samoj/Downloads/Screenshot.png
+
+**Jira link:** https://ilya7am.atlassian.net/browse/DS-1?atlOrigin=eyJpIjoiZDQ4ZjRiMTBmYzZhNDIwYmE2MDQ0MmJkOGQwZGZiZjgiLCJwIjoiaiJ9
