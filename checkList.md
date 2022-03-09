@@ -5,7 +5,8 @@
 |Tester      |ilya7am    |
 
 
-
+| | | |
+|-|-|-|
 |Item|Description|Result |
 ||**Usability**| |
 |1|Smooth scrolling|Pass |
