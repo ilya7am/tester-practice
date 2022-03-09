@@ -1,7 +1,7 @@
 | Build      | 1.0       | 
 |------------|-----------|
 |Environment |Windows 10 |
-|Test date   |03.09.2022 |
+|Test date   |09.03.2022 |
 |Tester      |ilya7am    |
 
 
