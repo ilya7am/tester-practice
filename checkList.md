@@ -1,9 +1,11 @@
-| | | |
-|-|-|-|
-|Build |1.0| |
-|Environment|Windows 10| |
-|Test date|03/09/2022| |
-|Tester|ilya7am| |
+| Build -----| 1.0-------| 
+|------------|-----------|
+|Environment |Windows 10 |
+|Test date   |03.09.2022 |
+|Tester -----|ilya7am    |
+
+
+
 | | | |
 |Item|Description|Result |
 |Usability | | |
