@@ -1,4 +1,3 @@
-| | | |
 |-|-|-|
 |Build |1.0| |
 |Environment|Windows 10| |
@@ -6,7 +5,7 @@
 |Tester|ilya7am| |
 | | | |
 |Item|Description|Result |
-|**Usability** |
+|**Usability**           |
 |1|Smooth scrolling|Pass |
 |2|No grammar or spelling errors in the content|Pass |
 |3|All the buttons are in a right format and size according to the mockup (https://www.figma.com/file/xkP6mIaq7uG1Uru7CpasXq/Museum-04.09) |Pass |
