@@ -6,4 +6,4 @@
 
 Script for **Git Bash terminal** (create folds, add new files, change the directory, copy and find files, show the date)
 
-**SQL** (**DDL** (create, alter), select, operators (like, in, between, and, or, not), functions (min-max, count), order by, insert) 
+**SQL** (**DDL** (create, alter), joins, select, operators (like, in, between, and, or, not), functions (min-max, count), order by, insert) 
