@@ -12,5 +12,3 @@ cp f4/two.txt f6
 find . -name "three.txt"
 date
 
-
-
