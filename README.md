@@ -1,4 +1,4 @@
-**Registration form testing:** [Checklist](https://docs.google.com/spreadsheets/d/1qJnvanNQyvdgK9VbdKLJRN__sP_xyHEwWXZF1vwmr7E/edit#gid=0) (extended), [Bug report](https://docs.google.com/spreadsheets/d/1qJnvanNQyvdgK9VbdKLJRN__sP_xyHEwWXZF1vwmr7E/edit#gid=678321474) for the registration ITCareerToday web form
+**Registration form testing:** [Checklist](https://docs.google.com/spreadsheets/d/1qJnvanNQyvdgK9VbdKLJRN__sP_xyHEwWXZF1vwmr7E/edit#gid=0) (extended), [Bug report](https://docs.google.com/spreadsheets/d/1qJnvanNQyvdgK9VbdKLJRN__sP_xyHEwWXZF1vwmr7E/edit#gid=678321474) for the registration *ITCareerToday web form*
 
 **Bug report** (standart) done for my own page "Dental Clinic"
 
