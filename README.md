@@ -1,4 +1,6 @@
-**Bug report** done for my own page "Dental Clinic"
+Registration form testing: [Checklist](https://docs.google.com/spreadsheets/d/1qJnvanNQyvdgK9VbdKLJRN__sP_xyHEwWXZF1vwmr7E/edit#gid=0)(extended), [Bug report](https://docs.google.com/spreadsheets/d/1qJnvanNQyvdgK9VbdKLJRN__sP_xyHEwWXZF1vwmr7E/edit#gid=678321474) for the registration ITCareerToday web form
+
+**Bug report** (standart) done for my own page "Dental Clinic"
 
 **Checklist** done for my page "Museum" (RS-School, "Front-End JS" course)
 
