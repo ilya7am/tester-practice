@@ -31,7 +31,7 @@ where employee_salary.salary_id is null;
 select employee_name, role_name
 from roles_employee
 join employees on roles_employee.employee_id = employees.id
-join roles on roles_employee.role_id = roles.id;
+join roles on roles_employee.role_id = roles.id; 
 
 --Show only names of Java developers
 select employee_name, role_name
