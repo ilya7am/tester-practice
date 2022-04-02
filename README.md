@@ -9,3 +9,8 @@
 Script for **Git Bash terminal** (create folds, add new files, change the directory, copy and find files, show the date)
 
 **SQL** (**DDL** (create, alter), joins, unions, select, operators (like, in, between, and, or, not), functions (min-max, count), order by, insert) 
+
+**Mobile testing** namely:
+1. Checklists for [IOS](https://docs.google.com/spreadsheets/d/1_apA3vfzOpoUwxWh6M4kP7j3414XBQ6L9j-lQzhq9tA/edit?usp=sharing) and [Android](https://docs.google.com/spreadsheets/d/1_apA3vfzOpoUwxWh6M4kP7j3414XBQ6L9j-lQzhq9tA/edit#gid=529235356) *guidelines*
+2. *Reminder app* testing done in Android Studio: [Smoke test, Regression testing](https://docs.google.com/spreadsheets/d/1flG9PAg1K_5ViZI81hyKomD0_H9HNYd6K6iXUmVG2lQ/edit#gid=0), [End-to-end testing](https://docs.google.com/spreadsheets/d/1flG9PAg1K_5ViZI81hyKomD0_H9HNYd6K6iXUmVG2lQ/edit#gid=428249171) and Bug reports
+3. Installation, taking screenshots and displaying logs of Reminder app through *ADB* 
