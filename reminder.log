@@ -1,0 +1,274 @@
+04-02 23:01:19.687  5512  5522 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.qrolic.reminderapp/.activity.SplashActivity bnds=[645,1325][856,1632]} from uid 10072
+04-02 23:01:19.688  5512  5522 I ActivityManager: ActivityRecord info: ActivityInfo{f94a20 com.qrolic.reminderapp.activity.SplashActivity}
+04-02 23:01:19.691   710   765 D AwareLog: iawared: WorkingsetProcessCommand subCmd = 354, userId=10301, pid=0, com.qrolic.reminderapp
+04-02 23:01:19.692   710   765 D AwareLog: iawared: WorkingsetSendPrereadMsg com.qrolic.reminderapp
+04-02 23:01:19.692   710   765 D AwareLog: iawared: WorkingsetStart com.qrolic.reminderapp in monitor0
+04-02 23:01:19.693  6152  6372 I hibernation: front pkg : com.qrolic.reminderapp launcher: false
+04-02 23:01:19.693  6152  6372 I hibernation: above launcher front pkgs: [com.qrolic.reminderapp]
+04-02 23:01:19.733  5512  5522 V WindowManager: addAppToken: AppWindowToken{3e7bf4 token=Token{c3b89c7 ActivityRecord{a3daf06 u0 com.qrolic.reminderapp/.activity.SplashActivity t98299}}} controller={TaskWindowContainerController taskId=98299} at 2147483647
+04-02 23:01:19.778  5512  5600 V WindowManager: addWindow: Window{ebf5951 u0 Splash Screen com.qrolic.reminderapp}
+04-02 23:01:19.828  5512  5523 V ActivityManager: startProcess: name=com.qrolic.reminderapp app=null knownToBeDead=true thread=null pid=-1
+04-02 23:01:19.830   710   765 D AwareLog: iawared: WorkingsetProcessCommand subCmd = 354, userId=10301, pid=0, com.qrolic.reminderapp
+04-02 23:01:19.830   710   765 D AwareLog: iawared: WorkingsetStart com.qrolic.reminderapp in monitor0
+04-02 23:01:19.832  5512  5523 V ActivityManager: startProcess: name=com.qrolic.reminderapp app=ProcessRecord{a55e5b6 0:com.qrolic.reminderapp/u0a301} knownToBeDead=true thread=null pid=0
+04-02 23:01:19.853  5512  5533 I ActivityManager: Start proc 20975:com.qrolic.reminderapp/u0a301 for activity com.qrolic.reminderapp/.activity.SplashActivity
+04-02 23:01:19.855   710   765 D AwareLog: iawared: WorkingsetProcessCommand subCmd = 350, userId=10301, pid=20975, com.qrolic.reminderapp
+04-02 23:01:19.885   710   765 D AwareLog: iawared: WorkingsetStart com.qrolic.reminderapp in monitor0
+04-02 23:01:19.914  5512  5523 W HwActivityManagerServiceEx: appSwitch from: com.huawei.android.launcher to: com.qrolic.reminderapp
+04-02 23:01:19.914  6131 14616 D AssistantService-901302: registerHwActivityNotifier call fromPackage:com.huawei.android.launcher, toPackage:com.qrolic.reminderapp
+04-02 23:01:19.915  6131 14616 D AssistantService-901302: getAppSDKType packageName:com.qrolic.reminderapp, type:0
+04-02 23:01:19.915  6152  6264 D ScenarioService: front pkg : com.qrolic.reminderapp launcher: false
+04-02 23:01:19.915  6152  6264 D ScenarioService: new above launcher front pkgs: [com.qrolic.reminderapp]
+04-02 23:01:19.916  6152  6264 I AppManager: handleAppFrontEvent: com.qrolic.reminderapp
+04-02 23:01:19.917  6131  6403 D Hicom_EmcomManagerService: forePackage name is com.qrolic.reminderapp
+04-02 23:01:19.917  6131  6403 D XEngineProcessor: onForegroundAppChanged, pkgName:com.qrolic.reminderapp
+04-02 23:01:19.917  6131  6403 D Hicom_SysEnvMonitor: onForegroundAppChanged, pkgName: com.qrolic.reminderapp
+04-02 23:01:19.917  6131  6403 D XEngineMpipControl: onForegroundAppChanged, pkgName:com.qrolic.reminderapp
+04-02 23:01:19.918  6152  6264 I AppsUsage: scnOff:false FgAPP:com.qrolic.reminderapp BgAPP:com.huawei.android.launcher
+04-02 23:01:19.926  6152  6471 I PGServer: report state:10000 event type:1 pid:0 uid:0 pkg:com.qrolic.reminderapp to pid: 6152
+04-02 23:01:19.927  5512  5531 D HiDATA_ContentAware: mForegroundAppPackageName: com.qrolic.reminderapp ,score: 0
+04-02 23:01:19.927  5512  5531 D HiDATA  : APP type: -1 appName= com.qrolic.reminderapp
+04-02 23:01:19.928  5512  5531 D HiDATA  : no game, APP_TYPE_GAME, appName =com.qrolic.reminderapp
+04-02 23:01:19.928  5512  5600 V WindowManager: Check opening app=AppWindowToken{3e7bf4 token=Token{c3b89c7 ActivityRecord{a3daf06 u0 com.qrolic.reminderapp/.activity.SplashActivity t98299}}}: allDrawn=false startingDisplayed=true startingMoved=false isRelaunching()=false startingWindow=Window{ebf5951 u0 Splash Screen com.qrolic.reminderapp}
+04-02 23:01:19.934  6152  6471 I SceneReceiver: state type: 10000 eventType:1 pid:0 uid:0 pkg:com.qrolic.reminderapp
+04-02 23:01:19.934  6152  6471 I PGServer: report state:10000 event type:1 pid:0 uid:0 pkg:com.qrolic.reminderapp to pid: 5512
+04-02 23:01:19.934  6152  6840 D HwThermalStateManager: current foreapp pkg : com.qrolic.reminderapp
+04-02 23:01:19.937   687   736 D iTouchService: itouch currentPackageName=com.qrolic.reminderapp
+04-02 23:01:19.937   687   736 D iTouchService: itouch:app com.qrolic.reminderapp is  not game app
+04-02 23:01:19.943  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{ebf5951 u0 Splash Screen com.qrolic.reminderapp}
+04-02 23:01:19.971  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{ebf5951 u0 Splash Screen com.qrolic.reminderapp}
+04-02 23:01:19.984  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{ebf5951 u0 Splash Screen com.qrolic.reminderapp}
+04-02 23:01:19.987  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{ebf5951 u0 Splash Screen com.qrolic.reminderapp}
+04-02 23:01:20.064  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{ebf5951 u0 Splash Screen com.qrolic.reminderapp}
+04-02 23:01:20.129 20975 20999 I HwApiCacheMangerEx: apicache path=/storage/emulated/0 state=mounted key=com.qrolic.reminderapp#10301#256
+04-02 23:01:20.130 20975 20999 I HwApiCacheMangerEx: apicache path=/storage/emulated/0 state=mounted key=com.qrolic.reminderapp#10301#0
+04-02 23:01:20.587 20975 20999 I AwareBitmapCacher: init processName:com.qrolic.reminderapp pid=20975 uid=10301
+04-02 23:01:20.651 20975 20975 V ActivityThread: Skipping new config:{1.0 250mcc1mnc [ru_RU,en_GB] ldltr sw360dp w360dp h712dp 480dpi nrml long port finger -keyb/v/h -nav/h winConfig={ mBounds=Rect(0, 0 - 1080, 2137) mAppBounds=Rect(0, 85 - 1080, 2222) mWindowingMode=fullscreen mActivityType=undefined} nonFullScreen=0 hwt:1 suim:1 s.340}, config:{1.0 250mcc1mnc [ru_RU,en_GB] ldltr sw360dp w360dp h712dp 480dpi nrml long port finger -keyb/v/h -nav/h winConfig={ mBounds=Rect(0, 0 - 1080, 2137) mAppBounds=Rect(0, 85 - 1080, 2222) mWindowingMode=fullscreen mActivityType=undefined} nonFullScreen=0 hwt:1 suim:1 s.340} for app:com.qrolic.reminderapp
+04-02 23:01:20.894 20975 20975 I chatty  : uid=10301(com.qrolic.reminderapp) identical 1 line
+04-02 23:01:21.017 20975 20975 D ConnectivityManager: requestNetwork and the calling app is: com.qrolic.reminderapp
+04-02 23:01:21.380  5512  5533 I ActivityManager: Start proc 21045:com.android.chrome:sandboxed_process0/u0i395 for webview_service com.qrolic.reminderapp/org.chromium.content.app.SandboxedProcessService0
+04-02 23:01:21.437 20975 20975 D ConnectivityManager: requestNetwork and the calling app is: com.qrolic.reminderapp
+04-02 23:01:21.544 20975 21065 I iGraphics: [0020080c] pn: com.qrolic.reminderapp, p: 20975
+04-02 23:01:21.545 20975 21065 I iGraphics: [0030080c] no spt app: com.qrolic.reminderapp
+04-02 23:01:21.559 20975 20975 D ActivityThread: add activity client record, r= ActivityRecord{e3aaff5 token=android.os.BinderProxy@e73a47b {com.qrolic.reminderapp/com.qrolic.reminderapp.activity.SplashActivity}} token= android.os.BinderProxy@e73a47b
+04-02 23:01:21.582 20975 20975 D HwAppInnerBoostImpl: set config for com.qrolic.reminderapp BOOST_FLAG=false REPORT_DURATION_CLICK=1000 REPORT_TIMES_CLICK=3 REPORT_DURATION_SLIDE=5000 REPORT_TIMES_SLIDE=16
+04-02 23:01:21.600  5512  5522 V WindowManager: addWindow: Window{9973f11 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.SplashActivity}
+04-02 23:01:21.603  5512 13521 D HiData_HwAPPQoEActivityMonitor: handleActivityChange,  curPackage:com.qrolic.reminderapp, curClass:com.qrolic.reminderapp.activity.SplashActivity
+04-02 23:01:21.603  5512 13521 D HiData_HwAPPQoEResourceMangerImpl: checkIsMonitorAPKScence input :com.qrolic.reminderapp,com.qrolic.reminderapp.activity.SplashActivity
+04-02 23:01:21.603  5512 13521 D HiData_HwAPPQoEResourceMangerImpl: checkIsMonitorAPKScence input :com.qrolic.reminderapp,null
+04-02 23:01:21.603  5512 13521 D HiData_HwAPPQoEResourceMangerImpl: checkIsMonitorGameScence input :com.qrolic.reminderapp
+04-02 23:01:21.603  5512 13521 D HiData_HwAPPQoEResourceMangerImpl: checkIsMonitorGameScence input :com.qrolic.reminderapp
+04-02 23:01:21.604  5512  5705 D HiData_HwAPPQoEResourceMangerImpl: checkIsMonitorVideoScence input :com.qrolic.reminderapp,com.qrolic.reminderapp.activity.SplashActivity
+04-02 23:01:21.604  5512  5542 D HwGameAssistantController: UPDATE: mCurFgPkg=com.qrolic.reminderapp, mCurFgPid=20975, mCurIsGame=false
+04-02 23:01:21.629  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{ebf5951 u0 Splash Screen com.qrolic.reminderapp}
+04-02 23:01:21.636  5512  5522 V HwPhoneWindowManager: updateSystemUiColorLw window=Window{9973f11 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.SplashActivity},EmuiStyle=0,StatusBarColor=0xff77ae8e,NavigationBarColor=0xfffcfcfc, mLastIsEmuiLightStyle=-1, mForceNotchStatusBar=false
+04-02 23:01:21.637  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{9973f11 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.SplashActivity}
+04-02 23:01:21.686  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{9973f11 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.SplashActivity}
+04-02 23:01:21.686  5512  5600 V WindowManager_visibility: updateAllDrawn Add AppWindowToken{3e7bf4 token=Token{c3b89c7 ActivityRecord{a3daf06 u0 com.qrolic.reminderapp/.activity.SplashActivity t98299}}}
+04-02 23:01:21.688  5512  5600 V WindowManager_visibility: updateAllDrawn allDrawn=false interesting=1 drawn=1 relaunchCount=0 for AppWindowToken{3e7bf4 token=Token{c3b89c7 ActivityRecord{a3daf06 u0 com.qrolic.reminderapp/.activity.SplashActivity t98299}}}
+04-02 23:01:21.692  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{9973f11 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.SplashActivity}
+04-02 23:01:21.697  5512  5600 V WindowManager: removeIfPossible: Window{ebf5951 u0 Splash Screen com.qrolic.reminderapp}
+04-02 23:01:21.697  5512  5541 I ActivityManager: Displayed com.qrolic.reminderapp/.activity.SplashActivity: +1s865ms
+04-02 23:01:21.697  5512  5541 D ActivityManager: EVENT_APP_ACTIVITY_DISPLAYED_FINISH reportData: com.qrolic.reminderapp/.activity.SplashActivity 20975 1865
+04-02 23:01:21.700   710   765 D AwareLog: iawared: WorkingsetProcessCommand subCmd = 351, userId=10301, pid=20975, com.qrolic.reminderapp
+04-02 23:01:21.700   710   765 D AwareLog: iawared: WorkingsetPause com.qrolic.reminderapp
+04-02 23:01:21.700  5512  5600 V WindowManager: Not removing Window{ebf5951 u0 Splash Screen com.qrolic.reminderapp EXITING} due to exit animation 
+04-02 23:01:21.703  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{9973f11 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.SplashActivity}
+04-02 23:01:21.704  5512  5522 I ActivityManager: START u0 {cmp=com.qrolic.reminderapp/.activity.HomeActivity} from uid 10301
+04-02 23:01:21.705  5512  5522 I ActivityManager: ActivityRecord info: ActivityInfo{6b8a32 com.qrolic.reminderapp.activity.HomeActivity}
+04-02 23:01:21.710  5512  5522 V WindowManager: addAppToken: AppWindowToken{cf756f token=Token{e54e04e ActivityRecord{a39bf49 u0 com.qrolic.reminderapp/.activity.HomeActivity t98299}}} controller={TaskWindowContainerController taskId=98299} at 2147483647
+04-02 23:01:21.720  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{9973f11 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.SplashActivity}
+04-02 23:01:21.761  5512  5600 V WindowManager: Exit animation finished in Window{ebf5951 u0 Splash Screen com.qrolic.reminderapp EXITING}: remove=true
+04-02 23:01:21.762  5512  5600 E WindowManager: win=Window{ebf5951 u0 Splash Screen com.qrolic.reminderapp EXITING} destroySurfaces: appStopped=false win.mWindowRemovalAllowed=true win.mRemoveOnExit=true
+04-02 23:01:21.762  5512  5600 V WindowManager: postWindowRemoveCleanupLocked: Window{ebf5951 u0 Splash Screen com.qrolic.reminderapp}
+04-02 23:01:21.762  5512  5600 V WindowManager: Removing Window{ebf5951 u0 Splash Screen com.qrolic.reminderapp} from AppWindowToken{3e7bf4 token=Token{c3b89c7 ActivityRecord{a3daf06 u0 com.qrolic.reminderapp/.activity.SplashActivity t98299}}}
+04-02 23:01:21.764  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{9973f11 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.SplashActivity}
+04-02 23:01:21.770  5512  5523 V ActivityManager: Making visible and scheduling visibility: ActivityRecord{a39bf49 u0 com.qrolic.reminderapp/.activity.HomeActivity t98299}
+04-02 23:01:21.776   710   765 D AwareLog: iawared: WorkingsetProcessCommand subCmd = 350, userId=10301, pid=20975, com.qrolic.reminderapp
+04-02 23:01:21.777   710   765 D AwareLog: iawared: WorkingsetStart com.qrolic.reminderapp in monitor0
+04-02 23:01:21.780  5512  5523 V WindowManager: Check opening app=AppWindowToken{cf756f token=Token{e54e04e ActivityRecord{a39bf49 u0 com.qrolic.reminderapp/.activity.HomeActivity t98299}}}: allDrawn=false startingDisplayed=false startingMoved=false isRelaunching()=false startingWindow=null
+04-02 23:01:21.781  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{9973f11 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.SplashActivity}
+04-02 23:01:21.781  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{9973f11 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.SplashActivity}
+04-02 23:01:21.791 20975 20975 V ActivityThread: Skipping new config:{1.0 250mcc1mnc [ru_RU,en_GB] ldltr sw360dp w360dp h712dp 480dpi nrml long port finger -keyb/v/h -nav/h winConfig={ mBounds=Rect(0, 0 - 1080, 2137) mAppBounds=Rect(0, 85 - 1080, 2222) mWindowingMode=fullscreen mActivityType=undefined} nonFullScreen=0 hwt:1 suim:1 s.340}, config:{1.0 250mcc1mnc [ru_RU,en_GB] ldltr sw360dp w360dp h712dp 480dpi nrml long port finger -keyb/v/h -nav/h winConfig={ mBounds=Rect(0, 0 - 1080, 2137) mAppBounds=Rect(0, 85 - 1080, 2222) mWindowingMode=fullscreen mActivityType=undefined} nonFullScreen=0 hwt:1 suim:1 s.340} for app:com.qrolic.reminderapp
+04-02 23:01:21.868 20975 20975 D HwSplineOverScrollerExImpl: initSplineOverScrollerImpl paras: android.widget.OverScroller$SplineOverScroller@c9c0c90,com.qrolic.reminderapp.activity.HomeActivity@ea251c7
+04-02 23:01:21.870 20975 20975 D HwSplineOverScrollerExImpl: initSplineOverScrollerImpl paras: android.widget.OverScroller$SplineOverScroller@25d61bc,com.qrolic.reminderapp.activity.HomeActivity@ea251c7
+04-02 23:01:21.871 20975 20975 D HwSplineOverScrollerExImpl: initSplineOverScrollerImpl paras: android.widget.OverScroller$SplineOverScroller@9ec449a,com.qrolic.reminderapp.activity.HomeActivity@ea251c7
+04-02 23:01:21.872 20975 20975 D HwSplineOverScrollerExImpl: initSplineOverScrollerImpl paras: android.widget.OverScroller$SplineOverScroller@47cdda8,com.qrolic.reminderapp.activity.HomeActivity@ea251c7
+04-02 23:01:21.930  5512  5695 D HiDATA  : onForegroundAppWifiSleepChange: config:false, sleeptime:-1,type: -1, appname:com.qrolic.reminderapp
+04-02 23:01:21.931  5512  5695 D HiDATA  : APP type: -1 appName= com.qrolic.reminderapp
+04-02 23:01:21.931  5512  5695 D HiDATA  : no game, APP_TYPE_GAME, appName =com.qrolic.reminderapp
+04-02 23:01:21.999 20975 20975 D HwSplineOverScrollerExImpl: initSplineOverScrollerImpl paras: android.widget.OverScroller$SplineOverScroller@c97b67f,com.qrolic.reminderapp.activity.HomeActivity@ea251c7
+04-02 23:01:22.000 20975 20975 D HwSplineOverScrollerExImpl: initSplineOverScrollerImpl paras: android.widget.OverScroller$SplineOverScroller@8fb3b9b,com.qrolic.reminderapp.activity.HomeActivity@ea251c7
+04-02 23:01:22.252 20975 21023 D ConnectivityManager: requestNetwork and the calling app is: com.qrolic.reminderapp
+04-02 23:01:22.323 20975 20975 D ActivityThread: add activity client record, r= ActivityRecord{1b7a930 token=android.os.BinderProxy@e00b02e {com.qrolic.reminderapp/com.qrolic.reminderapp.activity.HomeActivity}} token= android.os.BinderProxy@e00b02e
+04-02 23:01:22.370 20975 20975 D HwSplineOverScrollerExImpl: initSplineOverScrollerImpl paras: android.widget.OverScroller$SplineOverScroller@9b6e48,com.qrolic.reminderapp.activity.HomeActivity@ea251c7
+04-02 23:01:22.372 20975 20975 D HwSplineOverScrollerExImpl: initSplineOverScrollerImpl paras: android.widget.OverScroller$SplineOverScroller@21d26f4,com.qrolic.reminderapp.activity.HomeActivity@ea251c7
+04-02 23:01:22.391  5512 21118 D HwWifiConnectivityMonitor: ENTER: notifyTopUidTcpInfo, rtt = 160, rttPkts = 2, aveRtt = 80.0, app = com.qrolic.reminderapp
+04-02 23:01:22.391  5512 21118 D HwUidTcpMonitor: parseWlanUidTcpStatistics newUidTcpStatInfo = [ mUid = 10301 mPacketName = com.qrolic.reminderapp mSendSegs = 6 mResendSegs = 0 mRcvSegs = 4 ]
+04-02 23:01:22.466  5512  5523 V WindowManager: addWindow: Window{54f87b0 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.HomeActivity}
+04-02 23:01:22.468  5512 13521 D HiData_HwAPPQoEActivityMonitor: handleActivityChange,  curPackage:com.qrolic.reminderapp, curClass:com.qrolic.reminderapp.activity.HomeActivity
+04-02 23:01:22.468  5512 13521 D HiData_HwAPPQoEResourceMangerImpl: checkIsMonitorAPKScence input :com.qrolic.reminderapp,com.qrolic.reminderapp.activity.HomeActivity
+04-02 23:01:22.468  5512 13521 D HiData_HwAPPQoEResourceMangerImpl: checkIsMonitorAPKScence input :com.qrolic.reminderapp,null
+04-02 23:01:22.468  5512 13521 D HiData_HwAPPQoEResourceMangerImpl: checkIsMonitorGameScence input :com.qrolic.reminderapp
+04-02 23:01:22.468  5512 13521 D HiData_HwAPPQoEResourceMangerImpl: checkIsMonitorGameScence input :com.qrolic.reminderapp
+04-02 23:01:22.468  5512  5705 D HiData_HwAPPQoEResourceMangerImpl: checkIsMonitorVideoScence input :com.qrolic.reminderapp,com.qrolic.reminderapp.activity.HomeActivity
+04-02 23:01:22.468  5512  5542 D HwGameAssistantController: UPDATE: mCurFgPkg=com.qrolic.reminderapp, mCurFgPid=20975, mCurIsGame=false
+04-02 23:01:22.548 20975 20975 D HwSplineOverScrollerExImpl: initSplineOverScrollerImpl paras: android.widget.OverScroller$SplineOverScroller@e1ffe36,com.qrolic.reminderapp.activity.HomeActivity@ea251c7
+04-02 23:01:22.549 20975 20975 D HwSplineOverScrollerExImpl: initSplineOverScrollerImpl paras: android.widget.OverScroller$SplineOverScroller@ee5c7c2,com.qrolic.reminderapp.activity.HomeActivity@ea251c7
+04-02 23:01:22.558 20975 20975 D HwSplineOverScrollerExImpl: initSplineOverScrollerImpl paras: android.widget.OverScroller$SplineOverScroller@709b910,com.qrolic.reminderapp.activity.HomeActivity@ea251c7
+04-02 23:01:22.559 20975 20975 D HwSplineOverScrollerExImpl: initSplineOverScrollerImpl paras: android.widget.OverScroller$SplineOverScroller@c4c9e0e,com.qrolic.reminderapp.activity.HomeActivity@ea251c7
+04-02 23:01:22.566 20975 20975 D HwSplineOverScrollerExImpl: initSplineOverScrollerImpl paras: android.widget.OverScroller$SplineOverScroller@739563c,com.qrolic.reminderapp.activity.HomeActivity@ea251c7
+04-02 23:01:22.566 20975 20975 D HwSplineOverScrollerExImpl: initSplineOverScrollerImpl paras: android.widget.OverScroller$SplineOverScroller@2388d1a,com.qrolic.reminderapp.activity.HomeActivity@ea251c7
+04-02 23:01:22.574 20975 20975 D HwSplineOverScrollerExImpl: initSplineOverScrollerImpl paras: android.widget.OverScroller$SplineOverScroller@639a28,com.qrolic.reminderapp.activity.HomeActivity@ea251c7
+04-02 23:01:22.574 20975 20975 D HwSplineOverScrollerExImpl: initSplineOverScrollerImpl paras: android.widget.OverScroller$SplineOverScroller@4c260e6,com.qrolic.reminderapp.activity.HomeActivity@ea251c7
+04-02 23:01:22.581 20975 20975 D HwSplineOverScrollerExImpl: initSplineOverScrollerImpl paras: android.widget.OverScroller$SplineOverScroller@36c30d4,com.qrolic.reminderapp.activity.HomeActivity@ea251c7
+04-02 23:01:22.582 20975 20975 D HwSplineOverScrollerExImpl: initSplineOverScrollerImpl paras: android.widget.OverScroller$SplineOverScroller@ec3a572,com.qrolic.reminderapp.activity.HomeActivity@ea251c7
+04-02 23:01:22.636 20975 20975 D HwSplineOverScrollerExImpl: initSplineOverScrollerImpl paras: android.widget.OverScroller$SplineOverScroller@96e4717,com.qrolic.reminderapp.activity.HomeActivity@ea251c7
+04-02 23:01:22.637 20975 20975 D HwSplineOverScrollerExImpl: initSplineOverScrollerImpl paras: android.widget.OverScroller$SplineOverScroller@36914ed,com.qrolic.reminderapp.activity.HomeActivity@ea251c7
+04-02 23:01:22.694  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{9973f11 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.SplashActivity}
+04-02 23:01:22.696  5512  5523 V WindowManager: Check opening app=AppWindowToken{cf756f token=Token{e54e04e ActivityRecord{a39bf49 u0 com.qrolic.reminderapp/.activity.HomeActivity t98299}}}: allDrawn=false startingDisplayed=false startingMoved=false isRelaunching()=false startingWindow=null
+04-02 23:01:22.701  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{54f87b0 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.HomeActivity}
+04-02 23:01:22.917  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{54f87b0 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.HomeActivity}
+04-02 23:01:22.917  5512  5600 V WindowManager_visibility: updateAllDrawn Add AppWindowToken{cf756f token=Token{e54e04e ActivityRecord{a39bf49 u0 com.qrolic.reminderapp/.activity.HomeActivity t98299}}}
+04-02 23:01:22.919  5512  5600 V WindowManager_visibility: updateAllDrawn allDrawn=false interesting=1 drawn=1 relaunchCount=0 for AppWindowToken{cf756f token=Token{e54e04e ActivityRecord{a39bf49 u0 com.qrolic.reminderapp/.activity.HomeActivity t98299}}}
+04-02 23:01:22.919  5512  5600 V WindowManager: Check opening app=AppWindowToken{cf756f token=Token{e54e04e ActivityRecord{a39bf49 u0 com.qrolic.reminderapp/.activity.HomeActivity t98299}}}: allDrawn=true startingDisplayed=false startingMoved=false isRelaunching()=false startingWindow=null
+04-02 23:01:22.939  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{54f87b0 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.HomeActivity}
+04-02 23:01:22.942  5512  5541 I ActivityManager: Displayed com.qrolic.reminderapp/.activity.HomeActivity: +1s165ms
+04-02 23:01:22.942  5512  5541 D ActivityManager: EVENT_APP_ACTIVITY_DISPLAYED_FINISH reportData: com.qrolic.reminderapp/.activity.HomeActivity 20975 1165
+04-02 23:01:22.944   710   765 D AwareLog: iawared: WorkingsetProcessCommand subCmd = 351, userId=10301, pid=20975, com.qrolic.reminderapp
+04-02 23:01:22.944   710   765 D AwareLog: iawared: WorkingsetPause com.qrolic.reminderapp
+04-02 23:01:22.947  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{54f87b0 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.HomeActivity}
+04-02 23:01:23.354  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{54f87b0 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.HomeActivity}
+04-02 23:01:23.396 20975 20975 D ActivityThread: Remove activity client record, r= ActivityRecord{e3aaff5 token=android.os.BinderProxy@e73a47b {com.qrolic.reminderapp/com.qrolic.reminderapp.activity.SplashActivity}} token= android.os.BinderProxy@e73a47b
+04-02 23:01:23.399  5512  5523 V WindowManager: removeIfPossible: Window{9973f11 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.SplashActivity}
+04-02 23:01:23.400  5512  5523 V WindowManager: postWindowRemoveCleanupLocked: Window{9973f11 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.SplashActivity}
+04-02 23:01:23.400  5512  5523 V WindowManager: Removing Window{9973f11 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.SplashActivity} from AppWindowToken{3e7bf4 token=Token{c3b89c7 ActivityRecord{a3daf06 u0 com.qrolic.reminderapp/.activity.SplashActivity t98299}}}
+04-02 23:01:23.402  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{54f87b0 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.HomeActivity}
+04-02 23:01:23.421  5512  5523 V WindowManager: removeAppToken: AppWindowToken{3e7bf4 token=Token{c3b89c7 ActivityRecord{a3daf06 u0 com.qrolic.reminderapp/.activity.SplashActivity t98299}}} delayed=false Callers=com.android.server.wm.DisplayContent.removeAppToken:1067 com.android.server.wm.AppWindowContainerController.removeContainer:315 com.android.server.am.ActivityRecord.removeWindowContainer:1160 com.android.server.am.ActivityStack.removeActivityFromHistoryLocked:4532 
+04-02 23:01:24.945   710   765 D AwareLog: iawared: WorkingsetProcessCommand subCmd = 357, userId=10301, pid=20975, com.qrolic.reminderapp
+04-02 23:01:24.946   710   765 D AwareLog: iawared: WorkingsetPauseCollect com.qrolic.reminderapp
+04-02 23:01:25.156  5512  5523 I ActivityManager: START u0 {cmp=com.qrolic.reminderapp/.activity.AddNewReminder} from uid 10301
+04-02 23:01:25.158  5512  5523 I ActivityManager: ActivityRecord info: ActivityInfo{f69406 com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:25.166  5512  5523 V WindowManager: addAppToken: AppWindowToken{6869c96 token=Token{db71fb1 ActivityRecord{4b7a258 u0 com.qrolic.reminderapp/.activity.AddNewReminder t98299}}} controller={TaskWindowContainerController taskId=98299} at 2147483647
+04-02 23:01:25.174  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{54f87b0 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.HomeActivity}
+04-02 23:01:25.181   710   765 D AwareLog: iawared: WorkingsetProcessCommand subCmd = 352, userId=10301, pid=20975, com.qrolic.reminderapp
+04-02 23:01:25.182   710   765 D AwareLog: iawared: WorkingsetStop com.qrolic.reminderapp
+04-02 23:01:25.192  5512  5523 V ActivityManager: Making visible and scheduling visibility: ActivityRecord{4b7a258 u0 com.qrolic.reminderapp/.activity.AddNewReminder t98299}
+04-02 23:01:25.203  5512  5523 V WindowManager: Check opening app=AppWindowToken{6869c96 token=Token{db71fb1 ActivityRecord{4b7a258 u0 com.qrolic.reminderapp/.activity.AddNewReminder t98299}}}: allDrawn=false startingDisplayed=false startingMoved=false isRelaunching()=false startingWindow=null
+04-02 23:01:25.206  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{54f87b0 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.HomeActivity}
+04-02 23:01:25.228 20975 20975 V ActivityThread: Skipping new config:{1.0 250mcc1mnc [ru_RU,en_GB] ldltr sw360dp w360dp h712dp 480dpi nrml long port finger -keyb/v/h -nav/h winConfig={ mBounds=Rect(0, 0 - 1080, 2137) mAppBounds=Rect(0, 85 - 1080, 2222) mWindowingMode=fullscreen mActivityType=undefined} nonFullScreen=0 hwt:1 suim:1 s.340}, config:{1.0 250mcc1mnc [ru_RU,en_GB] ldltr sw360dp w360dp h712dp 480dpi nrml long port finger -keyb/v/h -nav/h winConfig={ mBounds=Rect(0, 0 - 1080, 2137) mAppBounds=Rect(0, 85 - 1080, 2222) mWindowingMode=fullscreen mActivityType=undefined} nonFullScreen=0 hwt:1 suim:1 s.340} for app:com.qrolic.reminderapp
+04-02 23:01:25.345 20975 20975 D HwSplineOverScrollerExImpl: initSplineOverScrollerImpl paras: android.widget.OverScroller$SplineOverScroller@e30791b,com.qrolic.reminderapp.activity.AddNewReminder@5ec96c5
+04-02 23:01:25.346 20975 20975 D HwSplineOverScrollerExImpl: initSplineOverScrollerImpl paras: android.widget.OverScroller$SplineOverScroller@4538bf7,com.qrolic.reminderapp.activity.AddNewReminder@5ec96c5
+04-02 23:01:25.400 20975 20975 D ActivityThread: add activity client record, r= ActivityRecord{50241fc token=android.os.BinderProxy@6f8df6b {com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}} token= android.os.BinderProxy@6f8df6b
+04-02 23:01:25.420  5512  5523 V WindowManager: addWindow: Window{e308c04 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:25.420  5512  5523 V WindowManager: addWindow: Window{e308c04 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:25.422  5512 13521 D HiData_HwAPPQoEActivityMonitor: handleActivityChange,  curPackage:com.qrolic.reminderapp, curClass:com.qrolic.reminderapp.activity.AddNewReminder
+04-02 23:01:25.422  5512 13521 D HiData_HwAPPQoEResourceMangerImpl: checkIsMonitorAPKScence input :com.qrolic.reminderapp,com.qrolic.reminderapp.activity.AddNewReminder
+04-02 23:01:25.422  5512 13521 D HiData_HwAPPQoEResourceMangerImpl: checkIsMonitorAPKScence input :com.qrolic.reminderapp,null
+04-02 23:01:25.422  5512 13521 D HiData_HwAPPQoEResourceMangerImpl: checkIsMonitorGameScence input :com.qrolic.reminderapp
+04-02 23:01:25.422  5512 13521 D HiData_HwAPPQoEResourceMangerImpl: checkIsMonitorGameScence input :com.qrolic.reminderapp
+04-02 23:01:25.422  5512  5705 D HiData_HwAPPQoEResourceMangerImpl: checkIsMonitorVideoScence input :com.qrolic.reminderapp,com.qrolic.reminderapp.activity.AddNewReminder
+04-02 23:01:25.423  5512  5542 D HwGameAssistantController: UPDATE: mCurFgPkg=com.qrolic.reminderapp, mCurFgPid=20975, mCurIsGame=false
+04-02 23:01:25.467  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{54f87b0 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.HomeActivity}
+04-02 23:01:25.468  5512 11291 V WindowManager: Check opening app=AppWindowToken{6869c96 token=Token{db71fb1 ActivityRecord{4b7a258 u0 com.qrolic.reminderapp/.activity.AddNewReminder t98299}}}: allDrawn=false startingDisplayed=false startingMoved=false isRelaunching()=false startingWindow=null
+04-02 23:01:25.472  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{e308c04 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:25.549  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{e308c04 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:25.550  5512  5600 V WindowManager_visibility: updateAllDrawn Add AppWindowToken{6869c96 token=Token{db71fb1 ActivityRecord{4b7a258 u0 com.qrolic.reminderapp/.activity.AddNewReminder t98299}}}
+04-02 23:01:25.551  5512  5600 V WindowManager_visibility: updateAllDrawn allDrawn=false interesting=1 drawn=1 relaunchCount=0 for AppWindowToken{6869c96 token=Token{db71fb1 ActivityRecord{4b7a258 u0 com.qrolic.reminderapp/.activity.AddNewReminder t98299}}}
+04-02 23:01:25.551  5512  5600 V WindowManager: Check opening app=AppWindowToken{6869c96 token=Token{db71fb1 ActivityRecord{4b7a258 u0 com.qrolic.reminderapp/.activity.AddNewReminder t98299}}}: allDrawn=true startingDisplayed=false startingMoved=false isRelaunching()=false startingWindow=null
+04-02 23:01:25.563  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{e308c04 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:25.570  5512  5541 I ActivityManager: Displayed com.qrolic.reminderapp/.activity.AddNewReminder: +367ms
+04-02 23:01:25.568  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{e308c04 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:25.571  5512  5541 D ActivityManager: EVENT_APP_ACTIVITY_DISPLAYED_FINISH reportData: com.qrolic.reminderapp/.activity.AddNewReminder 20975 367
+04-02 23:01:25.626  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{e308c04 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:25.694  5512  5523 V WindowManager: notifyAppStopped: AppWindowToken{cf756f token=Token{e54e04e ActivityRecord{a39bf49 u0 com.qrolic.reminderapp/.activity.HomeActivity t98299}}}
+04-02 23:01:25.694  5512  5523 E WindowManager: win=Window{54f87b0 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.HomeActivity} destroySurfaces: appStopped=true win.mWindowRemovalAllowed=false win.mRemoveOnExit=false
+04-02 23:01:26.621 20975 20975 I InputMethodManager: mServedView =com.qrolic.reminderapp;view =com.qrolic.reminderapp;flags =0
+04-02 23:01:26.759  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{e308c04 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:26.805  6152  6264 I AppTypeRecognise: input start front pkg: com.qrolic.reminderapp
+04-02 23:01:26.824  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{e308c04 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:27.228  5512  5646 D hw_netstat: total/1581/2705,com.qrolic.reminderapp/400/2076,unknown:0/1040/0,com.facebook.katana/0/556,unknown:1051/89/73,com.opera.browser/52/0
+04-02 23:01:29.776  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{e5a12a3 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:29.791  5512 11291 V WindowManager: addWindow: Window{e5a12a3 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:29.967  5512 11291 V WindowManager_visibility: updateAllDrawn Add AppWindowToken{6869c96 token=Token{db71fb1 ActivityRecord{4b7a258 u0 com.qrolic.reminderapp/.activity.AddNewReminder t98299}}}
+04-02 23:01:29.967  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{e5a12a3 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:29.968  5512 11291 V WindowManager_visibility: updateAllDrawn allDrawn=false interesting=1 drawn=1 relaunchCount=0 for AppWindowToken{6869c96 token=Token{db71fb1 ActivityRecord{4b7a258 u0 com.qrolic.reminderapp/.activity.AddNewReminder t98299}}}
+04-02 23:01:29.971  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{e5a12a3 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:29.979   612   612 D SurfaceFlinger: duplicate layer name: changing com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder to com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder#1
+04-02 23:01:30.058  6152  6264 D AppTypeRecognise: input end-> front pkg: com.qrolic.reminderapp duraion:3260 touchs:6
+04-02 23:01:30.162  5512  5600 V WindowManager_visibility: updateAllDrawn Add AppWindowToken{6869c96 token=Token{db71fb1 ActivityRecord{4b7a258 u0 com.qrolic.reminderapp/.activity.AddNewReminder t98299}}}
+04-02 23:01:30.164  5512  5600 V WindowManager_visibility: updateAllDrawn allDrawn=false interesting=2 drawn=2 relaunchCount=0 for AppWindowToken{6869c96 token=Token{db71fb1 ActivityRecord{4b7a258 u0 com.qrolic.reminderapp/.activity.AddNewReminder t98299}}}
+04-02 23:01:30.169  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{e5a12a3 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:30.220   612   612 D SurfaceFlinger: duplicate layer name: changing Surface(name=e5a12a3 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder)/@0x7e1dfcc - animation-leash to Surface(name=e5a12a3 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder)/@0x7e1dfcc - animation-leash#1
+04-02 23:01:30.246  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{e5a12a3 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:30.298  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{e5a12a3 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:35.220  5512  5522 V WindowManager: removeIfPossible: Window{e5a12a3 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:35.226  5512  5522 V WindowManager: Not removing Window{e5a12a3 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder EXITING} due to exit animation 
+04-02 23:01:35.227  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{e308c04 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:35.319  5512  5600 V WindowManager: Exit animation finished in Window{e5a12a3 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder EXITING}: remove=true
+04-02 23:01:35.319  5512  5600 E WindowManager: win=Window{e5a12a3 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder EXITING} destroySurfaces: appStopped=false win.mWindowRemovalAllowed=true win.mRemoveOnExit=true
+04-02 23:01:35.324  5512  5600 V WindowManager: postWindowRemoveCleanupLocked: Window{e5a12a3 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:35.324  5512  5600 V WindowManager: Removing Window{e5a12a3 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder} from AppWindowToken{6869c96 token=Token{db71fb1 ActivityRecord{4b7a258 u0 com.qrolic.reminderapp/.activity.AddNewReminder t98299}}}
+04-02 23:01:35.327  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{e308c04 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:36.330  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{8d3dcc4 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:36.332  5512  5522 V WindowManager: addWindow: Window{8d3dcc4 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:36.399  5512  5522 V WindowManager_visibility: updateAllDrawn Add AppWindowToken{6869c96 token=Token{db71fb1 ActivityRecord{4b7a258 u0 com.qrolic.reminderapp/.activity.AddNewReminder t98299}}}
+04-02 23:01:36.399  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{8d3dcc4 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:36.400  5512  5522 V WindowManager_visibility: updateAllDrawn allDrawn=false interesting=1 drawn=1 relaunchCount=0 for AppWindowToken{6869c96 token=Token{db71fb1 ActivityRecord{4b7a258 u0 com.qrolic.reminderapp/.activity.AddNewReminder t98299}}}
+04-02 23:01:36.404  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{8d3dcc4 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:36.407   612   612 D SurfaceFlinger: duplicate layer name: changing com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder to com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder#1
+04-02 23:01:36.497  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{8d3dcc4 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:36.498  5512  5600 V WindowManager_visibility: updateAllDrawn Add AppWindowToken{6869c96 token=Token{db71fb1 ActivityRecord{4b7a258 u0 com.qrolic.reminderapp/.activity.AddNewReminder t98299}}}
+04-02 23:01:36.506  5512  5600 V WindowManager_visibility: updateAllDrawn allDrawn=false interesting=2 drawn=2 relaunchCount=0 for AppWindowToken{6869c96 token=Token{db71fb1 ActivityRecord{4b7a258 u0 com.qrolic.reminderapp/.activity.AddNewReminder t98299}}}
+04-02 23:01:36.519  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{8d3dcc4 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:37.834  5512  5522 V WindowManager: removeIfPossible: Window{8d3dcc4 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:37.843  5512  5522 V WindowManager: Not removing Window{8d3dcc4 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder EXITING} due to exit animation 
+04-02 23:01:37.844  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{e308c04 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:37.934  5512  5600 V WindowManager: Exit animation finished in Window{8d3dcc4 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder EXITING}: remove=true
+04-02 23:01:37.934  5512  5600 E WindowManager: win=Window{8d3dcc4 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder EXITING} destroySurfaces: appStopped=false win.mWindowRemovalAllowed=true win.mRemoveOnExit=true
+04-02 23:01:37.939  5512  5600 V WindowManager: postWindowRemoveCleanupLocked: Window{8d3dcc4 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:37.939  5512  5600 V WindowManager: Removing Window{8d3dcc4 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder} from AppWindowToken{6869c96 token=Token{db71fb1 ActivityRecord{4b7a258 u0 com.qrolic.reminderapp/.activity.AddNewReminder t98299}}}
+04-02 23:01:37.945  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{e308c04 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:41.116  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{f68161d u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:41.123  5512 12665 V WindowManager: addWindow: Window{f68161d u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:41.148  5512 12665 V WindowManager_visibility: updateAllDrawn Add AppWindowToken{6869c96 token=Token{db71fb1 ActivityRecord{4b7a258 u0 com.qrolic.reminderapp/.activity.AddNewReminder t98299}}}
+04-02 23:01:41.148  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{f68161d u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:41.149  5512 12665 V WindowManager_visibility: updateAllDrawn allDrawn=false interesting=1 drawn=1 relaunchCount=0 for AppWindowToken{6869c96 token=Token{db71fb1 ActivityRecord{4b7a258 u0 com.qrolic.reminderapp/.activity.AddNewReminder t98299}}}
+04-02 23:01:41.152  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{f68161d u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:41.154   612   612 D SurfaceFlinger: duplicate layer name: changing com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder to com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder#1
+04-02 23:01:41.219  5512  5600 V WindowManager_visibility: updateAllDrawn Add AppWindowToken{6869c96 token=Token{db71fb1 ActivityRecord{4b7a258 u0 com.qrolic.reminderapp/.activity.AddNewReminder t98299}}}
+04-02 23:01:41.219  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{f68161d u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:41.223  5512  5600 V WindowManager_visibility: updateAllDrawn allDrawn=false interesting=2 drawn=2 relaunchCount=0 for AppWindowToken{6869c96 token=Token{db71fb1 ActivityRecord{4b7a258 u0 com.qrolic.reminderapp/.activity.AddNewReminder t98299}}}
+04-02 23:01:41.232  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{f68161d u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:42.110  5512 12665 V WindowManager: removeIfPossible: Window{f68161d u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:42.120  5512 12665 V WindowManager: Not removing Window{f68161d u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder EXITING} due to exit animation 
+04-02 23:01:42.121  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{e308c04 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:42.217  5512  5600 V WindowManager: Exit animation finished in Window{f68161d u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder EXITING}: remove=true
+04-02 23:01:42.217  5512  5600 E WindowManager: win=Window{f68161d u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder EXITING} destroySurfaces: appStopped=false win.mWindowRemovalAllowed=true win.mRemoveOnExit=true
+04-02 23:01:42.219  5512  5600 V WindowManager: postWindowRemoveCleanupLocked: Window{f68161d u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:42.220  5512  5600 V WindowManager: Removing Window{f68161d u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder} from AppWindowToken{6869c96 token=Token{db71fb1 ActivityRecord{4b7a258 u0 com.qrolic.reminderapp/.activity.AddNewReminder t98299}}}
+04-02 23:01:42.224  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{e308c04 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:42.718  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{e308c04 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:42.754  5512 12665 V WindowManager: notifyAppResumed: wasStopped=true AppWindowToken{cf756f token=Token{e54e04e ActivityRecord{a39bf49 u0 com.qrolic.reminderapp/.activity.HomeActivity t98299}}}
+04-02 23:01:42.769  5512 12665 V WindowManager: Check opening app=AppWindowToken{cf756f token=Token{e54e04e ActivityRecord{a39bf49 u0 com.qrolic.reminderapp/.activity.HomeActivity t98299}}}: allDrawn=false startingDisplayed=false startingMoved=false isRelaunching()=false startingWindow=null
+04-02 23:01:42.773  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{e308c04 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:42.807  5512  5600 V WindowManager: Check opening app=AppWindowToken{cf756f token=Token{e54e04e ActivityRecord{a39bf49 u0 com.qrolic.reminderapp/.activity.HomeActivity t98299}}}: allDrawn=false startingDisplayed=false startingMoved=false isRelaunching()=false startingWindow=null
+04-02 23:01:42.832  5512  5705 D HiData_HwAPPQoEResourceMangerImpl: checkIsMonitorVideoScence input :com.qrolic.reminderapp,com.qrolic.reminderapp.activity.HomeActivity
+04-02 23:01:42.832  5512  5542 D HwGameAssistantController: UPDATE: mCurFgPkg=com.qrolic.reminderapp, mCurFgPid=20975, mCurIsGame=false
+04-02 23:01:42.832  5512 13521 D HiData_HwAPPQoEActivityMonitor: handleActivityChange,  curPackage:com.qrolic.reminderapp, curClass:com.qrolic.reminderapp.activity.HomeActivity
+04-02 23:01:42.832  5512 13521 D HiData_HwAPPQoEResourceMangerImpl: checkIsMonitorAPKScence input :com.qrolic.reminderapp,com.qrolic.reminderapp.activity.HomeActivity
+04-02 23:01:42.832  5512 13521 D HiData_HwAPPQoEResourceMangerImpl: checkIsMonitorAPKScence input :com.qrolic.reminderapp,null
+04-02 23:01:42.832  5512 13521 D HiData_HwAPPQoEResourceMangerImpl: checkIsMonitorGameScence input :com.qrolic.reminderapp
+04-02 23:01:42.833  5512 13521 D HiData_HwAPPQoEResourceMangerImpl: checkIsMonitorGameScence input :com.qrolic.reminderapp
+04-02 23:01:42.840  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{e308c04 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.AddNewReminder}
+04-02 23:01:42.840  5512  7695 V WindowManager: Check opening app=AppWindowToken{cf756f token=Token{e54e04e ActivityRecord{a39bf49 u0 com.qrolic.reminderapp/.activity.HomeActivity t98299}}}: allDrawn=false startingDisplayed=false startingMoved=false isRelaunching()=false startingWindow=null
+04-02 23:01:42.845  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{54f87b0 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.HomeActivity}
+04-02 23:01:42.865  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{54f87b0 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.HomeActivity}
+04-02 23:01:42.867  5512  5600 V WindowManager: Check opening app=AppWindowToken{cf756f token=Token{e54e04e ActivityRecord{a39bf49 u0 com.qrolic.reminderapp/.activity.HomeActivity t98299}}}: allDrawn=false startingDisplayed=false startingMoved=false isRelaunching()=false startingWindow=null
+04-02 23:01:42.919 20975 21194 I chatty  : uid=10301(com.qrolic.reminderapp) glide-source-th identical 1 line
+04-02 23:01:42.923 20975 21195 I chatty  : uid=10301(com.qrolic.reminderapp) glide-source-th identical 1 line
+04-02 23:01:42.970  5512  5600 V WindowManager_visibility: updateAllDrawn Add AppWindowToken{cf756f token=Token{e54e04e ActivityRecord{a39bf49 u0 com.qrolic.reminderapp/.activity.HomeActivity t98299}}}
+04-02 23:01:42.970  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{54f87b0 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity.HomeActivity}
+04-02 23:01:42.971  5512  5600 V WindowManager_visibility: updateAllDrawn allDrawn=false interesting=1 drawn=1 relaunchCount=0 for AppWindowToken{cf756f token=Token{e54e04e ActivityRecord{a39bf49 u0 com.qrolic.reminderapp/.activity.HomeActivity t98299}}}
+04-02 23:01:42.971  5512  5600 V WindowManager: Check opening app=AppWindowToken{cf756f token=Token{e54e04e ActivityRecord{a39bf49 u0 com.qrolic.reminderapp/.activity.HomeActivity t98299}}}: allDrawn=true startingDisplayed=false startingMoved=false isRelaunching()=false startingWindow=null
+04-02 23:01:42.983  5512  5531 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{54f87b0 u0 com.qrolic.reminderapp/com.qrolic.reminderapp.activity
