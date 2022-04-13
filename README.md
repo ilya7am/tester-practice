@@ -14,3 +14,8 @@ Script for **Git Bash terminal** (create folds, add new files, change the direct
 1. Checklists for [IOS](https://docs.google.com/spreadsheets/d/1_apA3vfzOpoUwxWh6M4kP7j3414XBQ6L9j-lQzhq9tA/edit?usp=sharing) and [Android](https://docs.google.com/spreadsheets/d/1_apA3vfzOpoUwxWh6M4kP7j3414XBQ6L9j-lQzhq9tA/edit#gid=529235356) *guidelines*
 2. *Reminder app* testing done in Android Studio: [Smoke test, Regression testing](https://docs.google.com/spreadsheets/d/1flG9PAg1K_5ViZI81hyKomD0_H9HNYd6K6iXUmVG2lQ/edit#gid=0), [End-to-end testing](https://docs.google.com/spreadsheets/d/1flG9PAg1K_5ViZI81hyKomD0_H9HNYd6K6iXUmVG2lQ/edit#gid=428249171) and Bug reports
 3. Installation, taking screenshots and displaying logs of Reminder app through *ADB* 
+
+**Traffic capture** (HTTP and HTTPS) through:
+1. Charles by Breakpoints and Rewrite (modify Query Params, update body, response status (405, 500), rename the param)
+
+2. Fiddler Everywhere by Rule Builder (response filter by IP, update URL and Query Params, update request body, delete the value, display 505 status code, delete the parameter (update body, manual response), rename the param, change JSON in response, replace JSON with XML)
