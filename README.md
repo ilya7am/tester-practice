@@ -19,3 +19,5 @@ Script for **Git Bash terminal** (create folds, add new files, change the direct
 1. **Charles** by *Breakpoints* and *Rewrite* (modify Query Params, update body, response status (405, 500), rename the param)
 
 2. **Fiddler Everywhere** by *Rule Builder* (response filter by IP, update URL and Query Params, update request body, delete the value, display 505 status code, delete the parameter (update body, manual response), rename the param, change JSON in response, replace JSON with XML)
+
+**Apache JMeter** (Stepping thread group as well as Recording controller)
